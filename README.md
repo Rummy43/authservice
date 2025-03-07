@@ -1,0 +1,1 @@
+This microservice is mainly for authentication & authorization for SCMS users.
